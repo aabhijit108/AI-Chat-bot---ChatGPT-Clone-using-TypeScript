@@ -61,9 +61,11 @@ This bot uses the **[OpenRouter API](https://openrouter.ai/)** to provide intell
    cd AI-Chat-bot---ChatGPT-Clone-using-TypeScript
    
 2. **Install dependencies**
+   
    npm install
    
 4. **Set up environment variables**
+   
    npm run dev
 
 ---
@@ -76,10 +78,13 @@ This bot uses the **[OpenRouter API](https://openrouter.ai/)** to provide intell
 ---
 
 **📸 Screenshots**
+
 <img width="500" height="200" alt="Screenshot 2025-08-08 144452" src="https://github.com/user-attachments/assets/e85b4ed5-f0b2-4c1b-8b7d-16c523ac2d69" />
 
 ---
 
 **📜 License**
-This project is licensed under the MIT License.
-Feel free to use and modify it for personal or commercial projects.
+
+ This project is licensed under the MIT License.
+ 
+ Feel free to use and modify it for personal or commercial projects.
