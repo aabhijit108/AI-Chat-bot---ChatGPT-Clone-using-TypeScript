@@ -80,6 +80,6 @@ This bot uses the **[OpenRouter API](https://openrouter.ai/)** to provide intell
 
 ---
 
-📜 License
+**📜 License**
 This project is licensed under the MIT License.
 Feel free to use and modify it for personal or commercial projects.
