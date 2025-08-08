@@ -19,9 +19,7 @@
   </a>
 </p>
 
----
 
-# AI Chat Bot – ChatGPT Clone (TypeScript + OpenRouter API)
 
 A modern AI-powered chatbot built with **TypeScript**, **Next.js/React**, and **Tailwind CSS**, designed to replicate ChatGPT’s conversational experience.  
 This bot uses the **[OpenRouter API](https://openrouter.ai/)** to provide intelligent, human-like responses while supporting markdown, code blocks, and syntax highlighting for developers.
